@@ -42,4 +42,4 @@ The test cases cover composing and sending an email with:
 ## 👤 Submitted by
 Kapil Bohra
 kapilbohra2002@gmail.com  
-LinkdIn: www.linkedin.com/in/kapil-bohra-qa
+LinkedIn: www.linkedin.com/in/kapil-bohra-qa
